@@ -1,0 +1,15 @@
+
+Link to create a venv in VS Code:
+
+https://allinpython.com/how-to-create-python-virtual-environment-in-vscode/
+
+command to create a venv called "venv":
+
+python -m venv .venv
+
+Or just using the GUI on VScode to create the venv, then use the activation command shown below:
+When usign a terminal "(.venv)" in green should show up always whenever you run the python code
+
+activate the venv by entering this into the terminal:
+
+.venv/scripts/activate
